@@ -1,4 +1,7 @@
-# api documentation for  [feedme (v1.0.0)](https://github.com/fent/feedme.js#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-feedme.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-feedme) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-feedme.svg)](https://travis-ci.org/npmdoc/node-npmdoc-feedme)
+# npmdoc-feedme
+
+#### basic api documentation for  [feedme (v1.0.0)](https://github.com/fent/feedme.js#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-feedme.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-feedme) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-feedme.svg)](https://travis-ci.org/npmdoc/node-npmdoc-feedme)
+
 #### RSS/Atom/JSON feed parser
 
 [![NPM](https://nodei.co/npm/feedme.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/feedme)
@@ -73,7 +76,8 @@
     "scripts": {
         "test": "istanbul cover node_modules/.bin/_mocha -- test/*-test.js"
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
